@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Responsive Assignment
+# Basic-Portfolio
+Used for week one homework
